@@ -1,4 +1,4 @@
-LndHub
+LndHub índio Viegas 
 ======
 
 Wrapper for Lightning Network Daemon (lnd). It provides separate accounts with minimum trust for end users.
